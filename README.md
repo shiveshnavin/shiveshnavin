@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shivesh Navin</h1>
+<h1 align="center">Hi 👋, I'm Shivesh </h1>
+
+<h1 align="center"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/></h1>
 <h3 align="center">A passionate full stack developer from India . I like to build mobile and web apps and try to make lives easier. Open source is 🤍 . Post graduated in Software Engineering from BITS (M. Tech) and Graduation in Electronics and Communication Engineering from GGSIPU. Welcome to my humble abode in the Digital World..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshnavin&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshnavin" /> </p>
@@ -11,7 +13,6 @@
 
 - ⚡ Fun fact **There are 10 types of people in the world. Those who get Binary and those who don't.**
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
 <h3 align="left">Connect with me:</h3>
