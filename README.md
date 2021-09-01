@@ -11,5 +11,4 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hIwWJCh5khQQ3KoZGipvBa3CBgmciB6-/view](https://drive.google.com/file/d/1hIwWJCh5khQQ3KoZGipvBa3CBgmciB6-/view)
 
 - ⚡ Fun fact **There are 10 types of people in the world. Those who get Binary and those who don't.**
-<h1 align="center"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/></h1>
-
+ 
