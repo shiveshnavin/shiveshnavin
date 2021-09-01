@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **There are 10 types of people in the world. Those who get Binary and those who don't.**
 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/shiveshnavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiveshnavin" height="30" width="40" /></a>
