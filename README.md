@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shivesh </h1>
+ 
+<h1 align="center">Hi, I'm Shivesh </h1>
 
-<h3 align="center">A passionate full stack developer from India . I like to build mobile and web apps and try to make lives easier. Open source is 🤍 . Post graduated in Software Engineering from BITS (M. Tech) and Graduation in Electronics and Communication Engineering from GGSIPU. Welcome to my humble abode in the Digital World..</h3>
+ <p align="center">
+ <h2 align="center">👉<a href="https://shiveshnavin.github.io/">Checkout my profile on Github IO</a>👈</h2>
+ </p> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshnavin&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshnavin" /> </p>
 
