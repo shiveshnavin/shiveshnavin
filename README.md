@@ -5,6 +5,9 @@
  <h2 align="center">👉<a href="https://shiveshnavin.github.io/">Checkout my profile on Github IO</a>👈</h2>
  </p> 
 
+<p align="center">
+Hi 👋, I'm Shivesh. A passionate full stack developer from India with 6+ years of experience building cloud native microservices, web and mobile native apps. Currently working as a SDE 3 full-stack developer at PayPal. Post-graduated in Software Engineering from BITS (M. Tech) and Graduated in Electronics and Communication Engineering from GGSIPU (B. Tech). 
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiveshnavin&label=Profile%20views&color=0e75b6&style=flat" alt="shiveshnavin" /> </p>
 
